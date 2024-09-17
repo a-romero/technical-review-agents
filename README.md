@@ -1,6 +1,6 @@
-# Technical Reviewer Agent
+# Technical Review Agents
 
-An AI-powered agent designed to assist with technical code reviews.
+An AI-powered multi-agent apdesigned to assist with technical documentationa and code reviews.
 
 ## Overview
 
